@@ -1,5 +1,5 @@
 INSERT INTO Users (name, email, password) VALUES
-('John Doe', 'johndoe@example.com', 'hashed_password');
+('Aryan Kadam', 'aryankadam9090@gmail.com', '17112003');
 
 INSERT INTO Products (product_name, price, stock_quantity) VALUES
 ('Pest Control Spray', 25.99, 100);
